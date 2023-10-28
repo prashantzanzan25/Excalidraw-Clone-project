@@ -1,4 +1,3 @@
-# shivanijaiswal-Excalidraww3
 # Excalidraw Clone Project 
 
 In the last week, we will be focusing on using JavaScript to shapes and adding functionalities to enhance the user experience..
